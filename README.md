@@ -6,6 +6,6 @@ Die Live-Version ist auf GitHub Pages:
 https://artingo.github.io/Einkaufsliste/
 
 Das Endergebnis sieht so aus:  
-![ShoppingList](public/img/ShoppingList.png)
+![ShoppingList](./img/ShoppingList.png)
 
 Alfred Walther
