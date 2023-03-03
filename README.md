@@ -1,11 +1,10 @@
-# Einkaufsliste mit React.js
-Dieses Repository enthält eine Einkaufsliste, welche als Abschlussprojekt des Kurses "Grundlagen der Programierung" dient
-und mit HTML5, CSS3 und React.js entwickelt wurde.  
+# Shopping list with React.js
+This repository contains a shopping list which serves as a final project of the course "Fundamentals of Programming". It was developed with HTML5, CSS3 and React.js.  
 
-Die Live-Version ist auf GitHub Pages:  
+The live version is on GitHub Pages:  
 https://artingo.github.io/Einkaufsliste/
 
-Das Endergebnis sieht so aus:  
+The final result looks like this: 
 ![ShoppingList](./img/ShoppingList.png)
 
-Alfred Walther
+Freddie Walther
